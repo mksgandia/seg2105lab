@@ -6,7 +6,8 @@ Members:
 1. Markus Gandia 300303155
    mgand060@uottawa.ca
 
-2. partner
+2. Roy Rui 300176548
+   yrui053@uottawa.ca
 
 3. partner
 
