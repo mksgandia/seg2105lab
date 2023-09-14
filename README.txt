@@ -1,5 +1,5 @@
 seg2105lab
-SEG 2105 Lab1 Repository
+Group49 SEG 2105 Lab1 Repository
 
 Members:
 
